@@ -1,8 +1,12 @@
 # noteit
-A note taking application built using Node.js
+A note taking web application built using Node.js
 
-# Supported Methods
+# Supported operations
 * adding a note
 * deleting a note
 * listing all notes
 * reading a note
+
+# Node modules used
+* yargs
+* chalk
